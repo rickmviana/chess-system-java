@@ -1,2 +1,5 @@
 
-L	java:S106	"+Replace this use of System.out by a logger.(õƒîÿÿÿÿÿ8§èÚÑó1
+[
+java:S1854	"9Remove this useless assignment to local variable "board".(Ñ­âÓÿÿÿÿÿ8ØñøÑó1
+L
+java:S1481	"*Remove this unused "board" local variable.(Ñ­âÓÿÿÿÿÿ8ÚñøÑó1
